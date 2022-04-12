@@ -1,0 +1,12 @@
+{
+    "name": "soa-2022-nodered",
+    "description": "SOA 2022",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
